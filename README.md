@@ -2,7 +2,7 @@
 
 > 🎨 Omni is everywhere [Figma](https://www.figma.com/)
 
-<img src=".github/figma.png" alt="Figma project with Omni's colors" style="border-radius: 5px"/>
+![Screenshot](.github/figma.png)
 
 ## Installation Instructions
 
