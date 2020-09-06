@@ -1,9 +1,9 @@
-# Omni for [Figma](https://www.figma.com/)
+# Omni for [Sketch](https://www.sketch.com)
 
-> 🎨 Omni is everywhere [Figma](https://www.figma.com/)
+> 🎨 Omni is everywhere [Sketch](https://www.sketch.com)
 
-![Screenshot](.github/figma.png)
+![Screenshot](.github/omni.png)
 
 ## Installation Instructions
 
-Open Figma and import `Omni.fig`.
+Open `Omni.sketch` with Sketch.
